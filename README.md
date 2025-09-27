@@ -1,9 +1,5 @@
 ## Hi there,I am Shubham Mishra 👋
 
-<!--
-**shubh-cpp/shubh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 What I’m Currently Working On
 - 🎯 Preparing for **Software Development Engineer (SDE)** and **Data Analyst** roles
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Solving **DSA & competitive coding** problems to sharpen logic
 - 📫 How to reach me: 💼 LinkedIn: [linkedin.com/in/mishrashubhamm](https://www.linkedin.com/in/mishrashubhamm/)
 
--->
+
