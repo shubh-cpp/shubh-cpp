@@ -2,14 +2,14 @@
 
 
 - 🔭 What I’m Currently Working On
-- 🎯 Preparing for **Software Development Engineer (SDE)** and **Data Analyst** roles
+- 🎯 Preparing for **Software Development Engineer (SDE)** and **Data Analyst** also **Cyber Security** roles
 - 🛠️ Building impactful projects with **C++, Webdev, SQL & Python**
 - 💬 Ask me about AI Agents, Android, DSA, Software Development, No-Code Solutions
 - 🌱 Expanding skills in **Data Analysis** & **Developments**
 - ⚡ Solving **DSA & competitive coding** problems to sharpen logic
 ## 🌟 About Me  
 I’m a Computer Science graduate who thrives on **problem-solving, persistence, and continuous learning**.  
-Over the past 2.5 years, I immersed myself in **UPSC preparation**, which sharpened my **analytical thinking, discipline, and communication skills**.  
+Over the past 3+ years, I immersed myself in **UPSC preparation**, which sharpened my **analytical thinking, discipline, and communication skills**.  
 
 Now, I’m channeling the same grit into **software development and data-driven projects**, with a focus on Dsa, Python, C++, SQL, and Machine Learning basics.  
 
